@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jakob 👋
 
-<!--
-**jakob959595/jakob959595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student at FERI Maribor, Slovenia. I enjoy building web and desktop applications.
 
-Here are some ideas to get you started:
+## Tech
+HTML · CSS · PHP · C# · SQL · C++ · Python · Dart · JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Website KK Vojnik (https://www.kkvojnik.si): a website, that I made for my local basketball Club, where I used to play, that I am currently still maintain.
+- Lunch app(): A web app that helps groups of friends decide where to eat lunch. Add friends, organize them into groups, and the app randomly assigns one person each weekday to pick the restaurant.
+- Memory game(): A card-matching memory game built with HTML, CSS and JavaScript.
+- Unfinished File sorter(): unfinished project, that I started doing to sort my files the way I want.
+
+## Contact
+E-mail: jakob.zidar7@gmail.com
