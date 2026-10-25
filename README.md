@@ -3,7 +3,7 @@
 Computer science student at FERI Maribor, Slovenia. I enjoy building web and desktop applications.
 
 ## Tech
-HTML · CSS · PHP · C# · SQL · C++ · Python · Dart · JavaScript
+HTML · CSS · PHP · C# · SQL · C++ · Python · Dart · JavaScript · Flutter · ReactNative
 
 ## Projects
 - Website KK Vojnik (https://www.kkvojnik.si): a website, that I made for my local basketball Club, where I used to play, that I am currently still maintain.
